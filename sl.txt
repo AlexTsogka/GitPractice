@@ -5,10 +5,15 @@ Watermelon
 
 Meat
 sausages
+Chicken
 
 dairy
-
+milk
+Cheese
 
 household 
+laundry 
+ironing 
 
 pets
+cat
