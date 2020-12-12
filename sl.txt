@@ -1,5 +1,4 @@
 Fruites
-
 Apples 
 Bananas
 Watermelon
