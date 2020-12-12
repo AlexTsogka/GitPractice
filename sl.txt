@@ -1,3 +1,15 @@
+Fruites
+
 Apples 
 Bananas
 Watermelon
+
+Meat
+
+
+dairy
+
+
+household 
+
+pets
